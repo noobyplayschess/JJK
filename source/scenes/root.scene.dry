@@ -36,8 +36,8 @@ Q.old_demographics = 0;
 Q.use_decimals = 0;
 
 // curse energy
-Q.resources = Math.floor(Math.random() * 5);
-//
+Q.curseenergy = Math.floor(Math.random() * 21);
+// party dues
 Q.dues = 2;
 
 // the state of the party
