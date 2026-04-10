@@ -36,7 +36,7 @@ Q.old_demographics = 0;
 Q.use_decimals = 0;
 
 // curse energy
-Q.curseenergy = 1-5;
+Q.curseenergy = getRandomInt(0, 20);
 // party dues
 Q.dues = 2;
 
