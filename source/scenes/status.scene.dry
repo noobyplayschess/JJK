@@ -37,11 +37,14 @@ Chancellor: [+ chancellor +] ([+ chancellor_party +])
 
 Jujutsu Society:
 
-{!<span class="tooltip-text" title="Jujutsu Headquarters">JJHQ</span>!}: [+ jjhq_r +]%
-
+{!<span class="tooltip-text" title="Tokyo Jujutsu Highschool" style="color: #f4cbcc;">TJJH</span>!}: [+ tjjh_r +]%
+{!<span class="tooltip-text" title="Kyoto Jujutsu Highschool" style="color: #c9d7f9;">KJJH</span>!}: [+ kjjh_r +]%
+{!<span class="tooltip-text" title="Time Vessel Association" style="color: #a7d2f4;">TVA</span>!}: [+ tva_r +]%
 Others: [+ other_r +]%
 
 = Economics
+
+<span style="color: #;"></span>
 
 Inflation: [+ inflation_2 +]%
 
