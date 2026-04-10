@@ -35,8 +35,8 @@ Q.old_demographics = 0;
 // TODO: not yet implemented
 Q.use_decimals = 0;
 
-// party resources
-Q.resources = 2;
+// curse energy
+Q.curseenergy = 1-5;
 // party dues
 Q.dues = 2;
 
