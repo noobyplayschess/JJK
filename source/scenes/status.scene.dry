@@ -31,8 +31,6 @@ Internal dissent: [+ dissent_percent : dissent +]
 
 = Government
 
-funny valentine
-
 President: [+ president +]
 
 Chancellor: [+ chancellor +] ([+ chancellor_party +])
