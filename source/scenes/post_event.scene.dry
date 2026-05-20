@@ -5,9 +5,9 @@ on-arrival:
 if (Q.hour_actions >= 1) {
     Q.time += 1;
     Q.hour_actions = 0;
-    Q.month += 1;
-    if (Q.month >= 13) {
-        Q.month = 1;
-        Q.year += 1;
+    Q.hour += 1;
+    if (Q.hour >= 25) {
+        Q.hour = 1;
+        Q.day += 1;
          }
 }
