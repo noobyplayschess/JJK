@@ -24,4 +24,4 @@ Q.hour = 1;
 Q.day = 1;
 Q.month = 1;
 // how many actions have been taken this month?
-Q.month_actions = 0;
+Q.hour_actions = 0;
