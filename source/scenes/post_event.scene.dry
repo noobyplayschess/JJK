@@ -2,3 +2,12 @@ title: Post Event
 new-page: true
 on-arrival:
 
+if (Q.hour_actions >= 1) {
+    Q.time += 1;
+    Q.hour_actions = 0;
+    Q.month += 1;
+    if (Q.month >= 13) {
+        Q.month = 1;
+        Q.year += 1;
+         }
+}
